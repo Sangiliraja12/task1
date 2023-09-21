@@ -5,3 +5,12 @@ body.one{
     background-size: cover;
     background-attachment: fixed;
 }
+.three{
+    background-color: black;
+    color: bisque;
+}
+.four{
+    background-color: black;
+    color: white;
+    display: inline;
+}
